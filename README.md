@@ -1,2 +1,3 @@
-# Book_lab
-Book-lab - PHP / JAVASCRIPT / HTML-CSS 
+Book-lab is a project which
+aims in developing a computerized system to
+maintain all the daily work of library.
